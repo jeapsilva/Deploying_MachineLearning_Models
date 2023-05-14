@@ -2,7 +2,7 @@
  
 ## Introduction
  
-This tutorial is specifically designed to run locally on your machine. This can be done via 2 methods:  using `Python Virtual Environments`. 
+This tutorial is specifically designed to run locally on your machine. This can be done via using `Python Virtual Environments`. 
  
 Both approaches should yield the same result. If you already have a conda installation available on your computer, we recommend  that you use the virtual environment method. If this is not the case, choose the Docker method as it is easier to set up.
  
