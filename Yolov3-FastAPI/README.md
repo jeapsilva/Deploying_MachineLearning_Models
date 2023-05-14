@@ -19,8 +19,6 @@ or for cloning via SSH use:
 git clone https://github.com/jeapsilva/Deploying_MachineLearning_Models.git
 ```
 
-If you are unsure which method to use for cloning, use the first one.
-
 The `cd` command allows you to change directories. Assuming you are at the directory where you issued the cloning command, type the following on your terminal.
 ```bash
 cd Yolov3-FastAPI
